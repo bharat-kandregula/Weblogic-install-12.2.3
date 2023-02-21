@@ -1,0 +1,11 @@
+[ENGINE]
+Response File Version=1.0.0.0.0
+[GENERIC]
+CREATE_NEW_DOMAIN=true
+DOMAIN_NAME=<domain_name>
+DOMAIN_HOME=/u01/oracle/user_projects/domains/<domain_name>
+APPLICATIONS_HOME=/u01/oracle/user_projects/applications
+WL_HOME=/u01/oracle/Middleware/Oracle_Home/wlserver
+PRODUCTION_MODE=false
+ADMIN_PASSWORD=<admin_password>
+ADMIN_CONFIRM_PASSWORD=<admin_password>
